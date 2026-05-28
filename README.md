@@ -147,7 +147,6 @@ That mindset helped me maintain a **90+ day TryHackMe streak** and reach **Top 7
 </div>
 
 ---
-
 # 🛰️ OSINT & DIGITAL FORENSICS
 
 ```bash
@@ -196,9 +195,7 @@ Learning:
 * 🧪 Hands-on Web Exploitation Practice
 * 🕵️ OSINT & Recon Enthusiast
 * 🛡️ Passionate about practical cybersecurity
-
 ---
-
 <img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50f2e4f12.gif" width="100%"/>
 
 # 📜 CERTIFICATIONS
