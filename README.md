@@ -1,22 +1,19 @@
-````md
-<!-- =========================================
-              NANDINI VORA README
-========================================= -->
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
-# 👾 NANDINI VORA 👾
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Ethical+Hacker;Bug+Bounty+Hunter;CTF+Player;Digital+Forensics+Explorer;Cybersecurity+Student;Think+Like+An+Attacker;Hands-On+Cybersecurity+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=NANDINI+VORA" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Ethical+Hacker;Bug+Bounty+Hunter;CTF+Player;Digital+Forensics+Explorer;Cybersecurity+Student" />
 
 <br>
 
 ```bash
-> initializing cyber profile...
-> loading recon modules...
-> bypassing limitations...
+> booting cyber profile...
+> loading security modules...
+> initializing reconnaissance systems...
 > access granted
 ````
 
@@ -28,11 +25,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nandinivora18-181717?style=for-the-badge\&logo=github)](https://github.com/Nandinivora18)
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Nandinivora18&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50f2e4f12.gif" width="100%"/>
 
