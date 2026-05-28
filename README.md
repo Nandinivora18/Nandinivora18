@@ -20,15 +20,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Nandinivora18-181717?style=for-the-badge&logo=github)](https://github.com/Nandinivora18)
 
 
-
-<br><br>
+<br>
 
 </div>
 
 ---
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50f2e4f12.gif" width="100%"/>
 
 # 💀 TERMINAL.IDENTITY
 
