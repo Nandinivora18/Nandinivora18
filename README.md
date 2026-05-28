@@ -18,10 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Vora-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-vora-7b358a276/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Nandinivora18-181717?style=for-the-badge&logo=github)](https://github.com/Nandinivora18)
-
-
-<br>
-
 </div>
 
 ---
