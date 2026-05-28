@@ -21,7 +21,7 @@
 Hey! I'm a **Cybersecurity-specialized CSE student** at GLS University, Ahmedabad — obsessed with ethical hacking, bug bounty hunting, and digital forensics. I believe **consistent hands-on practice beats theory** — 90+ days on TryHackMe proved that.
 
 - 🎓 B.Tech CSE (Cybersecurity Specialization) · CGPA 8.1 (Sem VI) · GLS University
-- 🏆 **Top 8% Globally** on TryHackMe · 90-day learning streak
+- 🏆 **Top 7% Globally** on TryHackMe · 90-day learning streak
 - 🔐 Focused on: Web Application Security, OSINT, Network Recon, Digital Forensics
 - 🎯 Goal: Bug Bounty Hunter · Seeking Cybersecurity Internships
 - 📍 Ahmedabad, India
