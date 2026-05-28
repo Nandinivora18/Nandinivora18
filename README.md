@@ -13,7 +13,7 @@
 
 <br>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Global-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nandinivora245)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Vora-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-vora-7b358a276/)
