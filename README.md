@@ -14,9 +14,9 @@
 <br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Global-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nandinivora245)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Vora-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-vora-7b358a276/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Nandinivora18-181717?style=for-the-badge&logo=github)](https://github.com/Nandinivora18)
 
 
@@ -217,16 +217,6 @@ Learning:
 | ----------------------------- | --------- | -------- |
 | Active Top 7% Global Rank     | TryHackMe | Feb 2026 |
 | Introduction to Cybersecurity | Cisco     | May 2025 |
-
-</div>
-
----
-
-# 📊 TRYHACKME BADGE
-
-<div align="center">
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/nandinivora245.png)](https://tryhackme.com/p/nandinivora245)
 
 </div>
 
