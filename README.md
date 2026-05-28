@@ -58,7 +58,7 @@ Hey! I'm a **Cybersecurity-specialized CSE student** at GLS University, Ahmedaba
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| Active Top 8% Global Rank | TryHackMe | Feb 2026 |
+| Active Top 7% Global Rank | TryHackMe | Feb 2026 |
 | Introduction to Cybersecurity | Cisco | May 2025 |
 
 ---
@@ -75,7 +75,7 @@ Hey! I'm a **Cybersecurity-specialized CSE student** at GLS University, Ahmedaba
 
 <div align="center">
 
-📬 **nandinivora245@gmail.com** · +91 6354684112
+📬 **nandinivora245@gmail.com** · 
 
 *Open to cybersecurity internships & bug bounty collaborations*
 
