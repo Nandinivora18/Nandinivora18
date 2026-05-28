@@ -13,7 +13,6 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Global-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nandinivora245)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini_Vora-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-vora-7b358a276/)
@@ -235,14 +234,8 @@ Learning:
 
 <img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50f2e4f12.gif" width="100%"/>
 
-
-<div align="center">
-
 > *"The quieter you become, the more you are able to hear."*
 
-</div>
-
----
 
 # 📬 CONNECT WITH ME
 
