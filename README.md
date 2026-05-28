@@ -29,10 +29,10 @@ Hey! I'm a **Cybersecurity-specialized CSE student** at GLS University, Ahmedaba
 ---
 
 ## 🛠️ Arsenal
-Recon & Scanning    →  Nmap · Zenmap · Nikto · Wireshark
-Exploitation        →  Metasploit · Burp Suite · DVWA (SQLi, XSS, CMDi, BruteForce)
-Environment         →  Kali Linux · Bash · Python · MySQL · Java
-Concepts            →  Vulnerability Assessment · Web AppSec · OSINT · Network Scanning
+- Recon & Scanning    →  Nmap · Zenmap · Nikto · Wireshark
+- Exploitation        →  Metasploit · Burp Suite · DVWA (SQLi, XSS, CMDi, BruteForce)
+- Environment         →  Kali Linux · Bash · Python · MySQL · Java
+- Concepts            →  Vulnerability Assessment · Web AppSec · OSINT · Network Scanning
 
 ---
 
