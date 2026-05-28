@@ -6,7 +6,7 @@
 
 **`Ethical Hacker · Bug Bounty Hunter · CTF Player · Digital Forensics`**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_8%25_Global-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/nandinivora245)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Global-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/nandinivora245)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/nandini-vora-7b358a276)
 [![GitHub](https://img.shields.io/badge/GitHub-Nandinivora18-181717?style=flat-square&logo=github)](https://github.com/Nandinivora18)
 
