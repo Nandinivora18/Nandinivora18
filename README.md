@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-
-<br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=NANDINI+VORA" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Ethical+Hacker;Bug+Bounty+Hunter;CTF+Player;Digital+Forensics+Explorer;Cybersecurity+Student" />
