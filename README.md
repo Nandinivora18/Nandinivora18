@@ -228,7 +228,6 @@ Learning:
 
 <img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50f2e4f12.gif" width="100%"/>
 
-# 💀 DARK MOTIVATIONAL QUOTE
 
 <div align="center">
 
